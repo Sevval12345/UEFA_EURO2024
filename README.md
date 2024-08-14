@@ -1,5 +1,5 @@
 # Önemli Not
-Her şeyden önce projeyi sayın İbrahim Püsküllü'den (https://github.com/Enke-bit) aldığımı belirtmek isterim. Kodlar ona aittir.
+Her şeyden önce projeyi sayın İbrahim Püsküllü'den @Enke-bit aldığımı belirtmek isterim. Kodlar ona aittir.
 
 Projesinin linki: https://github.com/Enke-bit/euro_2024_turnuva_uzerine_cal-sma_ve_milli_takim_analiz
 
