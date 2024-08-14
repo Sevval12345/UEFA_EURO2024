@@ -10,4 +10,4 @@ Ben kendimi geliştirmek için bildiklerimle harmanyalarak ders çalışır gibi
 Bu projede, futbol takımlarının performansını analiz etmek ve görselleştirmek amacıyla çeşitli makine öğrenmesi teknikleri kullanılmıştır. Özellikle Türkiye'nin gol atma ve gol yeme performansı, diğer ülkelerle karşılaştırılarak değerlendirilecektir. Aşağıda proje kapsamında yapılacak işlemler ve izlenecek adımlar açıklanmıştır.
 
 # Kullanılan Kütüphaneler
-* pANDE 
+ 
